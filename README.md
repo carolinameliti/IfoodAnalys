@@ -1,8 +1,15 @@
 # Ifood Analyse Marketing
 
+<p align="center"> <img 
+                     src="./imagens/capa1.png",
+                     width="400px"> </p></img>
+
 ## Sobre o projeto
 Este projeto visa analisar o comportamento de compras dos clientes e traçar segmentação de clientes. Utilizei técnicas de análise de dados como estatística descritiva e visualização de dados com gráficos gerados pelas libs seaborn e matplolib para direcionar melhor as campanhas de marketing e possivelmente criar um programa de fidelidade.
 
+- [Veja aqui o nootebok python](https://github.com/Anameliti/IfoodAnalys/tree/main/notebook)
+  
+- [Veja aqui a apresentação do projeto](https://github.com/Anameliti/IfoodAnalys/tree/main/notebook)
 
 ## Entendimento do negócio
 
@@ -32,4 +39,6 @@ Para otimizar nossas campanhas, sugiro direcionar ofertas exclusivas para os seg
 ## Estrutura do Projeto
 
 A estrutura de diretórios do projeto foi organizada da seguinte forma:
-- 
+
+- Imagens: contém imagem para o readme do projeto
+- Notebooks: Contém a apresentação em ppt do projeto e o código em python 
