@@ -1,8 +1,7 @@
 # Ifood Analyse Marketing
 
-<p align="center"> <img 
-                     src="./imagens/capa1.png",
-                     width="400px"> </p></img>
+<p align="center"> <img id="gif" src="/imagens/readme.gif"
+                     width: 100px>
 
 ## Sobre o projeto
 Este projeto visa analisar o comportamento de compras dos clientes e traçar segmentação de clientes. Utilizei técnicas de análise de dados como estatística descritiva e visualização de dados com gráficos gerados pelas libs seaborn e matplolib para direcionar melhor as campanhas de marketing e possivelmente criar um programa de fidelidade.
